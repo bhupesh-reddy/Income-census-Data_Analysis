@@ -42,7 +42,7 @@ We also created an additional column for classification of individuals based on 
 
 #### Modelling:
 
-Performed modelling to predict the income groups based on the feature varibales.
+Performed modelling to predict the income groups based on the feature varibales.[Visit ML model](https://gallery.cortanaintelligence.com/Experiment/ML-income-prediction)
 
 - The Dashboard is publish in Power BI My workspace. To visit the dashboard [click here](https://app.powerbi.com/groups/me/reports/477cd6fd-5b48-4edc-960a-cd4ad90432ff/ReportSection)
 
